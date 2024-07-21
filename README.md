@@ -1,0 +1,1 @@
+It is an ongoing MERN Stack by building an amazing e-commerce application from scratch. The application will have not only basic functionalities such as a shopping cart and product search, but also advanced things such as chat, real-time sales charts, product attributes , creating testable components in React and other things
